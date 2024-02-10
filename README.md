@@ -19,5 +19,5 @@ Update Summary
 Related files: 
 src/com/middleLevel/AddTwoNumbers.java
 src/com/middleLevel/ListNode.java
-<a href="https://leetcode.com/problems/two-sum/description/" target="_blank">leetcode Add Two Numbers problem link</a>
+[leetcode Add Two Numbers problem link](https://leetcode.com/problems/add-two-numbers/)
 
