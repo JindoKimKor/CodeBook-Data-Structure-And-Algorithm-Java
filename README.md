@@ -15,4 +15,9 @@ This repository contains my solutions and approaches for practicing data structu
 
 Update Summary
 
-2024-02-10: Solution code for the middle-level problem "Add Two Numbers" has been added, along with testable code for the solution. The applied data structure is Linked List, and the algorithm used is the Traversing Algorithm.
+2024-02-10: Solution code for the middle-level LeetCode problem "Add Two Numbers" has been added, along with testable code for the solution. The applied data structure is Linked List, and the used algorithm is the Traversing Algorithm.
+Related files: 
+src/com/middleLevel/AddTwoNumbers.java
+src/com/middleLevel/ListNode.java
+<a href="https://leetcode.com/problems/two-sum/description/" target="_blank">leetcode Add Two Numbers problem link</a>
+
